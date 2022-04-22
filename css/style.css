@@ -5,15 +5,20 @@ html {
 }  
   
 body {
-  
+  color: #432;
 }
 
-h1 {
-  color: #0bd;
+a {
+  tedxt-decoration: none;
 }
 
-p {
-  font-size: 20px;
+img {
+  max-width: 100%;
+}
+
+.logo {
+  width: 210px;
+  margin-top: 14px;
 }
 
 .main-nav {
