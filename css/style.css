@@ -28,6 +28,8 @@ img {
   text-transform: uppercase;
   margin-top: 34px;
   list-style: none;
+  background-color:#C8FFFF;
+  background-clip:padding-box;
 }
 
 .main-nav li {
