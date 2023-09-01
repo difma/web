@@ -28,6 +28,9 @@ img {
   text-transform: uppercase;
   margin-top: 34px;
   list-style: none;
+}
+
+.main-nav ui {
   background-color:#C8FFFF;
   background-clip:border-box;
 }
