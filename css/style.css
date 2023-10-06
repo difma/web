@@ -41,6 +41,7 @@ img {
 
 .main-nav li {
   margin-left: 36px;
+  margin-upper: 36px;
   float: left;
 }
 
