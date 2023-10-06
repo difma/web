@@ -33,6 +33,9 @@ img {
 .main-nav ui {
   background-color:#9192b8;
   background-clip:border-box;
+}
+
+.main-nav ul {
   list-style: none;
 }
 
