@@ -3,31 +3,36 @@ html {
 }
 a {
   text-decoration: none;
+}
+a:link {
   color: #FFFFFF;
 }
+a:hover {
+  color: #B0E0E6;
+}
+a:active {
+  color: #ADFF2F;
+}
 header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 body {
-    padding-top: 30px;
+  padding-top: 30px;
 }
 nav {
-    background-color: #444444;
-    color: #FFFFFF;
-    text-align: center;
-    padding: 10px;
+  background-color: #444444;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 10px;
 }
 li {
-    list-style: none;
-    display: inline;
-    padding: 10px;
+  list-style: none;
+  display: inline;
+  padding: 10px;
 }
 li a {
-    font-size: 20px;
-}
-li a:hover {
-    color: powderblue;
+  font-size: 20px;
 }
