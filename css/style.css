@@ -3,6 +3,7 @@ html {
 }
 a {
   text-decoration: none;
+  color: #FFFFFF;
 }
 header {
     position: fixed;
