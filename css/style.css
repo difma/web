@@ -1,38 +1,27 @@
-html {
-  font-size: 100%;
-}
-a {
-  text-decoration: none;
-}
-a:link {
-  color: #FFFFFF;
-}
-a:hover {
-  color: #B0E0E6;
-}
-a:active {
-  color: #ADFF2F;
-}
-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-}
 body {
-  padding-top: 30px;
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+  color: #333;
 }
-nav {
-  background-color: #444444;
-  color: #FFFFFF;
+
+h1 {
   text-align: center;
-  padding: 10px;
+  color: #4a90e2;
 }
-li {
-  list-style: none;
-  display: inline;
-  padding: 10px;
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
 }
-li a {
-  font-size: 20px;
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f0f0f0;
 }
